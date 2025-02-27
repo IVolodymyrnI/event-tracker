@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config">
+    <sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE">
+        <color>grouped-blue</color>
+        <icon>vacation-outline</icon>
+        <is_deleting>false</is_deleting>
+        <name>Event-tracker</name>
+        <request_table>x_1634545_event_0_request</request_table>
+        <sys_class_name>sn_creatorstudio_request_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 09:05:57</sys_created_on>
+        <sys_id>5a023f9083402210f5b8bb96feaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event-tracker</sys_name>
+        <sys_package display_value="Event-tracker" source="x_1634545_event_0">8102fb9083402210f5b8bb96feaad330</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event-tracker">8102fb9083402210f5b8bb96feaad330</sys_scope>
+        <sys_update_name>sn_creatorstudio_request_app_config_5a023f9083402210f5b8bb96feaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 09:05:57</sys_updated_on>
+    </sn_creatorstudio_request_app_config>
+</record_update>
